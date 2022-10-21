@@ -1,0 +1,4 @@
+/Users/pika4picha/Desktop/MKP/Lab_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pika4picha/Desktop/MKP/Lab_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pika4picha/Desktop/MKP/Lab_1/cmake-build-debug/CMakeFiles/Lab_1.dir
+/Users/pika4picha/Desktop/MKP/Lab_1/cmake-build-debug/CMakeFiles/anyExecutable.dir
